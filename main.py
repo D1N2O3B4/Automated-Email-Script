@@ -5,7 +5,7 @@ import smtplib
 from_mail = "davidboateng68@outlook.com"
 password = getpass.getpass("Type password: ")
 
-to_mail = "dizzymonde23@proton.me"
+to_mail = "dizzymon23@proton.me"
 
 message = "Hello this is a test email"
 
